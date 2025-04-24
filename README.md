@@ -1,22 +1,50 @@
 # 👋 Hi, I'm Ntare!
 
-I'm a passionate developer who loves building cool projects and solving real-world problems. Welcome to my GitHub profile!
+Welcome to my GitHub. I'm a passionate full-stack developer and cybersecurity enthusiast, always building cool projects and tackling real-world challenges. 🔥
 
-## 🚀 My Projects
-- [Automatic Light Simulation](https://github.com/Ntarekp/Automatic-Light-Simulation) - A cyberpunk-themed MQTT-based light control system.
+---
 
-## 🛠️ Technologies & Tools
-- **Languages**: Python, JavaScript, HTML/CSS
-- **Frameworks**: Flask, React
-- **Tools**: Git, VS Code, Docker
+## 🚀 Featured Projects
+
+### Automatic Light Simulation
+
+
+
+A cyberpunk-themed MQTT-powered light control system that transforms any space into a futuristic haven. Built with:
+
+- **Backend**: Python, MQTT
+- **Frontend**: HTML/CSS, JavaScript
+- **Deployment**: Docker, Raspberry Pi
+
+Check it out 👉 [GitHub Repo](https://github.com/Ntarekp/Automatic-Light-Simulation)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category       | Technologies                      |
+| -------------- | --------------------------------- |
+| **Languages**  | Python, JavaScript, HTML/CSS      |
+| **Frameworks** | Flask, React, Express             |
+| **Dev Tools**  | Git, VS Code, Docker, MQTT, Linux |
+| **Security**   | Wireshark, Nmap, Metasploit       |
+
+---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ntarekp&show_icons=true&theme=radical)
+
+
+
+---
 
 ## 🌐 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ntare-kayitare-prince-267379334/))
-- [X](https://x.com/kpntare)
-- [Email](mailto:kpntare@gmail.com)
+
+- [LinkedIn](https://www.linkedin.com/in/ntare-kayitare-prince-267379334/) 🧑‍💼
+- [X (Twitter)](https://x.com/kpntare) 🐦
+- [Email](mailto\:kpntare@gmail.com) ✉️
+
+---
 
 ## 🎉 Fun Fact
-I love cyberpunk aesthetics and building IoT simulations!
+
+I’m obsessed with cyberpunk aesthetics and love crafting IoT simulations
