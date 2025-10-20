@@ -1,11 +1,11 @@
-<!-- Banner -->
+<!-- Banner Section -->
 <p align="center">
-  <img src="https://github.com/Ntarekp/Ntarekp/assets/placeholder/banner-dark.png" alt="Ntare Kayitare Prince - Full Stack Developer & Cybersecurity Enthusiast" width="100%">
+  <img src="https://raw.githubusercontent.com/Ntarekp/Ntarekp/main/banner.png" alt="Ntare Kayitare Prince | Full-Stack Developer & Cybersecurity Enthusiast" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Ntare Kayitare Prince</h1>
 <p align="center">
-  <em>Full-Stack Developer | Cybersecurity Enthusiast | IoT Innovator</em>
+  <em>Full-Stack Developer · Cybersecurity Enthusiast · IoT Innovator</em>
 </p>
 
 <p align="center">
@@ -16,27 +16,12 @@
 
 ---
 
-### 🧭 About Me
+## 🧭 About Me
 
-I’m a **Full-Stack Developer** and **Cybersecurity Enthusiast** passionate about creating secure, intelligent systems that make a tangible impact.  
-I focus on **IoT-based automation**, **AI integration**, and **smart city technologies**—bridging the gap between software, hardware, and security.
+I’m a **Full-Stack Developer** and **Cybersecurity Enthusiast** dedicated to building impactful, intelligent systems that merge **software, hardware, and security**.  
+I specialize in IoT, embedded systems, and full-stack web applications that drive innovation and sustainability.
 
-💡 *Currently exploring how machine learning and cybersecurity can enhance environmental sustainability.*
-
----
-
-## 🚀 Featured Project
-
-### ⚡ Automatic Light Simulation
-
-A smart, MQTT-powered lighting system designed to demonstrate IoT automation, real-time control, and cyber-physical interaction using **edge computing**.
-
-**🧠 Tech Stack**
-- **Backend:** Python, MQTT  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Deployment:** Docker, Raspberry Pi  
-
-🔗 [View Repository →](https://github.com/Ntarekp/Automatic-Light-Simulation)
+💡 *Currently exploring the intersection of machine learning, cybersecurity, and smart infrastructure.*
 
 ---
 
@@ -50,12 +35,12 @@ A smart, MQTT-powered lighting system designed to demonstrate IoT automation, re
 |-----------|---------------------|
 | **Languages** | Python, JavaScript, HTML, CSS |
 | **Frameworks** | Flask, React, Express |
-| **DevOps / Tools** | Git, Docker, Linux, MQTT, VS Code |
+| **DevOps / Tools** | Docker, Git, Linux, MQTT, VS Code |
 | **Cybersecurity** | Wireshark, Nmap, Metasploit, Aircrack-ng |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ntarekp&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160px"/>
@@ -84,13 +69,6 @@ A smart, MQTT-powered lighting system designed to demonstrate IoT automation, re
 
 ---
 
-## ⚙️ Fun Fact
-
-I love **cyberpunk aesthetics**, experimenting with **IoT automation**, and building **simulations that blend art and technology**.
-
----
-
-### 🧡 Thanks for visiting!
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ntarekp&style=flat-square&color=blue" alt="Profile Views" />
 </p>
